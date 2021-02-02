@@ -1,8 +1,8 @@
 version: 1.0.0
 files:
   - url: my-app-setup-1.0.0.exe
-    sha512: 8w2P7sLoNr/hKweQ+S44e8x/ivbDm261DQFbekuydJeGGyqMT9BDQ4ILeHIAN/STcRN0PVz5QQLm0L81a+lRRg==
-    size: 58372846
+    sha512: 5/Phk5LyWpinJ4zc5NyBuLETbELfwJPGMFzWOs8PMH7st5ukEr3Purxp8dd17ME6gHMN6YkuuAVtRb5fYlXZ8w==
+    size: 58605976
 path: my-app-setup-1.0.0.exe
-sha512: 8w2P7sLoNr/hKweQ+S44e8x/ivbDm261DQFbekuydJeGGyqMT9BDQ4ILeHIAN/STcRN0PVz5QQLm0L81a+lRRg==
-releaseDate: '2021-02-01T08:53:32.960Z'
+sha512: 5/Phk5LyWpinJ4zc5NyBuLETbELfwJPGMFzWOs8PMH7st5ukEr3Purxp8dd17ME6gHMN6YkuuAVtRb5fYlXZ8w==
+releaseDate: '2021-02-02T03:23:16.038Z'
