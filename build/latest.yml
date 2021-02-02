@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: my-app-setup-1.0.0.exe
-    sha512: 5/Phk5LyWpinJ4zc5NyBuLETbELfwJPGMFzWOs8PMH7st5ukEr3Purxp8dd17ME6gHMN6YkuuAVtRb5fYlXZ8w==
-    size: 58605976
-path: my-app-setup-1.0.0.exe
-sha512: 5/Phk5LyWpinJ4zc5NyBuLETbELfwJPGMFzWOs8PMH7st5ukEr3Purxp8dd17ME6gHMN6YkuuAVtRb5fYlXZ8w==
-releaseDate: '2021-02-02T03:23:16.038Z'
+  - url: 影片路径处理工具 Setup 1.0.1.exe
+    sha512: zrzMeKtIIDID/Bj4ubOERVbwbb+dTpdw+kq8lNVqCHO57RwljfXL27/tIsKyT47HnAfySgn0CcTdVdcthaYX2A==
+    size: 58606078
+path: 影片路径处理工具 Setup 1.0.1.exe
+sha512: zrzMeKtIIDID/Bj4ubOERVbwbb+dTpdw+kq8lNVqCHO57RwljfXL27/tIsKyT47HnAfySgn0CcTdVdcthaYX2A==
+releaseDate: '2021-02-02T04:29:55.290Z'
